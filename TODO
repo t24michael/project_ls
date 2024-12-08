@@ -1,0 +1,17 @@
+Implement a word correction function i.e.
+sentence: 'Jag heter Simon och jag är fjorton år'
+input: 'Jag heter Simon och jag ar fjorton ar'
+the input misses the diacritic on 'å' so
+the function could return that the user
+is close to the answer and let it pass - DONE
+
+Implement a function to add padding to a
+sentence if its missing a word i.e.
+sentence: 'Jag heter Simon och jag är fjorton år'
+input: 'Jag heter Simon jag är fjorton år'
+check what the missing word is and add padding
+for it then return that the word is missing
+
+Modularize the code
+
+
