@@ -23,3 +23,6 @@ with open("1984.txt", 'r') as file:
 	with open("1984.txt", "w") as file:
 		file.writelines(lines)
 
+
+print("hello man")
+
